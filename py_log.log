@@ -1,0 +1,61 @@
+INFO:root:User input: 5
+INFO:root:User input: 5
+INFO:root:User input: 5
+INFO:root:User input: 6
+INFO:root:User input: 6
+INFO:root:User list: [670, 942, 17, 60, 918, 670]
+INFO:root:User get: 17
+INFO:root:User get: 942
+INFO:root:User get: 670
+INFO:root:User get: 17
+INFO:root:User get: 60
+INFO:root:User input: 5
+INFO:root:User list: [683, 663, 645, 746, 779]
+INFO:root:User get: 663
+INFO:root:User get: 683
+INFO:root:User get: Vy uzhe brali etot bochonok
+INFO:root:User get: Vy uzhe brali etot bochonok
+INFO:root:User input: 2
+INFO:root:User list: [895, 82]
+ERROR:root:Out of bounds
+INFO:root:User input: 2
+INFO:root:User list: [26, 339]
+INFO:root:User get: Vy uzhe brali etot bochonok
+INFO:root:User get: Vy uzhe brali etot bochonok
+INFO:root:User input: 3
+INFO:root:User list: [475, 181, 38]
+INFO:root:User get: Vy uzhe brali etot bochonok
+INFO:root:User get: Vy uzhe brali etot bochonok
+INFO:root:User get: Vy uzhe brali etot bochonok
+INFO:root:User get: Vy uzhe brali etot bochonok
+INFO:root:User get: Vy uzhe brali etot bochonok
+INFO:root:User get: Vy uzhe brali etot bochonok
+INFO:root:User input: 7
+INFO:root:User list: [201, 573, 446, 535, 261, 820, 463]
+INFO:root:User get: Vy uzhe brali etot bochonok
+INFO:root:User get: Vy uzhe brali etot bochonok
+INFO:root:User get: Vy uzhe brali etot bochonok
+ERROR:root:Out of bounds
+ERROR:root:Out of bounds
+INFO:root:User get: Vy uzhe brali etot bochonok
+INFO:root:User input: 13
+INFO:root:User list: [422, 638, 676, 277, 820, 609, 880, 390, 148, 463, 190, 253, 170]
+INFO:root:User get: Vy uzhe brali etot bochonok
+ERROR:root:Out of bounds
+INFO:root:User get: Vy uzhe brali etot bochonok
+INFO:root:User get: Vy uzhe brali etot bochonok
+INFO:root:User get: Vy uzhe brali etot bochonok
+ERROR:root:Out of bounds
+INFO:root:User get: Vy uzhe brali etot bochonok
+INFO:root:User input: 7
+INFO:root:User list: [172, 784, 38, 450, 551, 830, 382]
+INFO:root:User get: Vy uzhe brali etot bochonok
+INFO:root:User get: Vy uzhe brali etot bochonok
+INFO:root:User get: Vy uzhe brali etot bochonok
+ERROR:root:Out of bounds
+INFO:root:User get: Vy uzhe brali etot bochonok
+INFO:root:User input: 25
+INFO:root:User list: [958, 159, 848, 85, 146, 959, 451, 924, 272, 718, 125, 523, 4, 681, 680, 675, 585, 238, 712, 820, 446, 792, 27, 134, 458]
+INFO:root:User get: Vy uzhe brali etot bochonok
+ERROR:root:Out of bounds
+INFO:root:User get: Vy uzhe brali etot bochonok
