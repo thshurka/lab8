@@ -8,7 +8,7 @@ logging.info(f"User input: {n}")
 li = [0]*n
 
 for i in range(n):
-    li[i] = random.randint(1,1000)
+    li[i] = random.randint(1,n)
 
 logging.info(f"User list: {li}")
 
